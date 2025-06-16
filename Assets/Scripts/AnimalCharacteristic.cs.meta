@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 43324627da8e72c41833d807ec1c95f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animalSprite: {fileID: 2800000, guid: c1609d01b8d558344b5e933451d054f2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
